@@ -11,7 +11,7 @@ I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer.
   - [DNN_Threat]()
   - [clustered_learningrate]()
 
-<h2>👨‍💻 Active Repositories:</h2>
+<h2>👨‍💻 Active Code Repositories:</h2>
 - <b> BrainBeam 🔦</b> - a cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale
   - [BrainBeam Full-Stack (in progress) ]()
   - [BrainBeam Backend (finished) ]()
@@ -26,6 +26,24 @@ I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer.
   - [mean sem in R]()
  
 - <b> DeepLabCut based pipelines </b> - Scripts for analyzing outputs of DeepLabCut, a pose-estimation software.
+
+- <b> TMT_BEHAVIOR </b> - Pipeline for simultaneous collection of raspberry-pi camera data.
+  - An inexpensive recording system for recording video data simultaneously across many hours
+ 
+- <b> pMAT (forked into my repo "photometry"). - A guided user interface for analysis of fiber photometry data.
+  - Please see pMAT for our original code
+  - My repo "photometry" is forked from pMAT and is meant to be run in cloud via SLURM. 
+
+<h2>👨‍💻 Miscellaneous Code Repositories:</h2>
+- <b> CellQuant 🔦</b> - a cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale
+  - [BrainBeam Full-Stack (in progress) ]()
+  - [BrainBeam Backend (finished) ]()
+
+- <b> cuda_gpu_tools 🔬 </b> - A few scripts for monitoring gpu usage.  
+  - [Primary python API]()
+  - [Aurdino code]()
+ 
+- <b> Tension Reader 🐶 </b> - Python script for recording tension data for dogs via pi zero device. 
 
 <h2>📰 Published Research Projects </h2>
 My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses.  
