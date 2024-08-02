@@ -9,9 +9,9 @@ I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer.
 
 <h2>👨‍💻 Active Code Repositories:</h2>
 
-- <b> 🔦 [BrainBeam](https://github.com/DJESTRIN/BrainBeam) 🔦</b> a cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale. Contains a full pipeline for analyses. Currently developing associated GUI + API.
+- <b> 🔦 [BrainBeam](https://github.com/DJESTRIN/BrainBeam) 🔦</b> - A cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale. Contains a full pipeline for analyses. Currently developing associated GUI + API.
 
-- <b> 🔬 [Sweet2Plus](https://github.com/DJESTRIN/Sweet2Plus) 🔬</b> a python API for analysis of suite2P outputs. In addition to analyzing suite2P outputs and performing statistics, this repo contains some C++ code for running behavioral experiments in the wet lab. 
+- <b> 🔬 [Sweet2Plus](https://github.com/DJESTRIN/Sweet2Plus) 🔬</b> - A python API for analysis of suite2P outputs. In addition to analyzing suite2P outputs and performing statistics, this repo contains some C++ code for running behavioral experiments in the wet lab. 
 
 - <b> 🖥️ [LinReg](https://github.com/DJESTRIN/LinReg) 🖥️ </b> - A unifying linear regression library. This repository contains R and SAS functions/scripts for generalized linear mixed models, linear mixed models, linear models. I am currently building this repository based on a variety of statistics scripts I have written over the years. In addition to regression analyses, there are some common functions for plotting and data cleaning. 
  
@@ -30,7 +30,9 @@ I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer.
 - <b> 🐶 [ZeroTension](https://github.com/DJESTRIN/ZeroTension) 🐶 </b> - Python script for recording tension data via Raspberry Pi Zero based device. 
 
 <h2>📰 Published Research Projects: </h2>
-My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses.  
+My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses. 
+
+For a full bibliography of my research, please see my [Google Scholar](https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en).  
 
 - <b> Signal Processing of Brainwave data (aka Calcium Fiber photometry) </b>
   - pMAT
@@ -48,4 +50,5 @@ My previous research studied reinforcement learning by eulcidating how natural n
   - Emergence of negative affect as motivation for drug taking in rats chronically self-administering cocaine  
 
 <h2> 🤳 Connect with me:</h2>
+If you're interested in discussing Neuroscience, AI, or reinforcement learning, collaborating on projects, or if you're a hiring manager, please reach out to me via LinkedIn. I look forward to connecting with you!
 
