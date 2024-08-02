@@ -1,5 +1,5 @@
 <h1> Hi, my name is David. Welcome to my code repository! </h1>
-I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer. Through my research, I study reinforcement learning in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
+I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer. Through my research, I study reinforcement learning (RL) in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
 
 <h2> 👨‍🔬 Active Research Projects:</h2>
 
@@ -50,5 +50,5 @@ For a full bibliography of my research, please see my [Google Scholar](https://s
   - Emergence of negative affect as motivation for drug taking in rats chronically self-administering cocaine  
 
 <h2> 🤳 Connect with me:</h2>
-If you're interested in discussing Neuroscience, AI, or reinforcement learning, collaborating on projects, or if you're a hiring manager, please reach out to me via LinkedIn. I look forward to connecting with you!
+If you're interested in discussing Neuroscience, AI, or RL, collaborating on projects, or if you're a hiring manager, please reach out to me via LinkedIn. I look forward to connecting with you!
 
