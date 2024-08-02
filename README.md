@@ -1,15 +1,11 @@
-<h1> Hi, my name is David </h1>
-I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer. Through my research, I study reinforcement learning in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in robotics and medicine </a>
-<h2> Welcome to my code repository! </h2> 
+<h1> Hi, my name is David. Welcome to my code repository! </h1>
+I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer. Through my research, I study reinforcement learning in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
 
 <h2> 👨‍🔬 Active Research Projects:</h2>
-- <b> On PFC threat processing --> Coming soon </b>
 
-- <b> DQN as a model of synaptic turnover </b>
-  - [dqn threat ]()
-  - [stressDQN]()
-  - [DNN_Threat]()
-  - [clustered_learningrate]()
+- <b> 🥼 Chronic Stress Influences Prefrontal Threat Response and Afferent Connectivity </b> - Project coming soon
+
+- <b> 🤖 DQN as a model of synaptic turnover 🤖 </b> - Code repository available by request
 
 <h2>👨‍💻 Active Code Repositories:</h2>
 
@@ -19,27 +15,21 @@ I am a Computational Neuroscientist :brain: seeking positions as an ML Engineer.
 
 - <b> 🖥️ [LinReg](https://github.com/DJESTRIN/LinReg) 🖥️ </b> - A unifying linear regression library. This repository contains R and SAS functions/scripts for generalized linear mixed models, linear mixed models, linear models. I am currently building this repository based on a variety of statistics scripts I have written over the years. In addition to regression analyses, there are some common functions for plotting and data cleaning. 
  
-- <b> DeepLabCut based pipelines </b> - Scripts for analyzing outputs of DeepLabCut, a pose-estimation software.
+- <b> 🐭 [PostPose](https://github.com/DJESTRIN/PostPose) 🐭 </b> - A collection of scripts for analyzing outputs of DeepLabCut, a pose-estimation software.
 
-- <b> TMT_BEHAVIOR </b> - Pipeline for simultaneous collection of raspberry-pi camera data.
-  - An inexpensive recording system for recording video data simultaneously across many hours
+- <b> 📷 [CameraSync](https://github.com/DJESTRIN/CameraSync) 📸 </b> - A Tool kit for simultaneous recording of raspberry pi cameras. 
  
-- <b> pMAT (forked into my repo "photometry"). - A guided user interface for analysis of fiber photometry data.
-  - Please see pMAT for our original code
-  - My repo "photometry" is forked from pMAT and is meant to be run in cloud via SLURM. 
+- <b> 🌊 [photometry](https://github.com/DJESTRIN/photometry) 🌊 </b> - (forked from [pMAT](https://github.com/djamesbarker/pMAT)) A Fiber Photometry Analysis Suite.
 
-<h2>👨‍💻 Miscellaneous Code Repositories:</h2>
-- <b> CellQuant 🔦</b> - a cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale
-  - [BrainBeam Full-Stack (in progress) ]()
-  - [BrainBeam Backend (finished) ]()
+<h2>👨‍💻 Miscellaneous Code Repositories: </h2>
 
-- <b> cuda_gpu_tools 🔬 </b> - A few scripts for monitoring gpu usage.  
-  - [Primary python API]()
-  - [Aurdino code]()
+- <b> ☣️ [HistQuant](https://github.com/DJESTRIN/HistQuant) ☣️ </b> - A collection of code for analyzing histological tissue samples. 
+
+- <b> 🛞 [cuda_gpu_tools](https://github.com/DJESTRIN/cuda_gpu_tools) 🛞 🔬 </b> - Code for monitoring and visualizing gpu usage.  
  
-- <b> Tension Reader 🐶 </b> - Python script for recording tension data for dogs via pi zero device. 
+- <b> 🐶 [ZeroTension](https://github.com/DJESTRIN/ZeroTension) 🐶 </b> - Python script for recording tension data via Raspberry Pi Zero based device. 
 
-<h2>📰 Published Research Projects </h2>
+<h2>📰 Published Research Projects: </h2>
 My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses.  
 
 - <b> Signal Processing of Brainwave data (aka Calcium Fiber photometry) </b>
