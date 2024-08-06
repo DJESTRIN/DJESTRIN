@@ -6,9 +6,6 @@ I am a Computational Neuroscientist :brain: seeking positions as a Machine Learn
 - <b> 🥼 Chronic Stress Influences Prefrontal Threat Response and Afferent Connectivity </b> - Project coming soon
 
 - <b> 🤖 DQN as a model of synaptic turnover 🤖 </b> - Code repository available by request
-<p float="center">
-  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/atari_ex.png" width="300"/>
-</p>
 
 <h2>👨‍💻 Active Code Repositories:</h2>
 
