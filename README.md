@@ -1,16 +1,14 @@
 <h1> Hi, my name is David. Welcome to my code repository! </h1>
 I am a Computational Neuroscientist :brain: seeking positions as a Machine Learning Researcher and/or Engineer. Through my research, I study reinforcement learning (RL) in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
 
-<p float="center">
-  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/atari_ex.png" width="300" height="300" />
-  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="300" height="300"/>
-</p>
-
 <h2> 👨‍🔬 Active Research Projects:</h2>
 
 - <b> 🥼 Chronic Stress Influences Prefrontal Threat Response and Afferent Connectivity </b> - Project coming soon
 
 - <b> 🤖 DQN as a model of synaptic turnover 🤖 </b> - Code repository available by request
+<p float="center">
+  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/atari_ex.png" width="300"/>
+</p>
 
 <h2>👨‍💻 Active Code Repositories:</h2>
 
@@ -36,6 +34,10 @@ I am a Computational Neuroscientist :brain: seeking positions as a Machine Learn
 
 <h2>📰 Published Research Projects: </h2>
 My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses. 
+
+<p float="center">
+  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="500"/>
+</p>
 
 For a full bibliography of my research, please see my [Google Scholar](https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en).  
 
