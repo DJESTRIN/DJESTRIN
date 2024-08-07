@@ -25,7 +25,7 @@ I am a Computational Neuroscientist :brain: seeking positions as a Machine Learn
 
 - <b> ☣️ [HistQuant](https://github.com/DJESTRIN/HistQuant) ☣️ </b> - A collection of code for analyzing histological tissue samples. 
 
-- <b> 🛞 [cuda_gpu_tools](https://github.com/DJESTRIN/cuda_gpu_tools) 🛞 🔬 </b> - Code for monitoring and visualizing gpu usage.  
+- <b> 🛞 [cuda_gpu_tools](https://github.com/DJESTRIN/cuda_gpu_tools) 🛞  </b> - Code for monitoring and visualizing gpu usage.  
  
 - <b> 🐶 [ZeroTension](https://github.com/DJESTRIN/ZeroTension) 🐶 </b> - Python script for recording tension data via Raspberry Pi Zero based device. 
 
