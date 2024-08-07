@@ -1,5 +1,5 @@
 <h1> Hi, my name is David. Welcome to my code repository! </h1>
-I am a Computational Neuroscientist :brain: seeking positions as a Machine Learning Researcher and/or Engineer. Through my research, I study reinforcement learning (RL) in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
+I am a Computational Neuroscientist :brain: seeking positions as a Machine Learning Engineer. Through my research, I study reinforcement learning (RL) in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
 
 <h2> 👨‍🔬 Active Research Projects:</h2>
 
