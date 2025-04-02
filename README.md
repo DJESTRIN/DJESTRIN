@@ -29,8 +29,6 @@ I am a Computational Neuroscientist :brain: seeking positions as a Machine Learn
 
 - <b> ✏️ [ProjectManager](https://github.com/DJESTRIN/ProjectManager) ✏️  </b> - Code for monitoring steps in data intense projects. Intended use for scientific studies.
  
-- <b> 🐶 [ZeroTension](https://github.com/DJESTRIN/ZeroTension) 🐶 </b> - Python script for recording tension data via Raspberry Pi Zero based device. 
-
 <h2>📰 Published Research Projects: </h2>
 My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses. 
 
