@@ -1,58 +1,208 @@
-<h1> Hi, my name is David. Welcome to my code repository! </h1>
-I am a Computational Neuroscientist :brain: seeking positions as a Machine Learning Engineer. Through my research, I study reinforcement learning (RL) in both real and artificial neural networks. I am particularly facinated by Deep Q-Learning and its applications in Neuroscience. I am also facinated by the use of NeuroAI in medicine and robotics. 
+<h1 align="center">Hi, I'm David Estrin 👋</h1>
 
-<h2> 👨‍🔬 Active Research Projects:</h2>
-
-- <b> 🥼 Chronic Stress Influences Prefrontal Threat Response and Afferent Connectivity </b> - Project coming soon
-
-- <b> 🤖 DQN as a model of synaptic turnover 🤖 </b> - Code repository available by request
-
-<h2>👨‍💻 Active Code Repositories:</h2>
-
-- <b> 🔦 [BrainBeam](https://github.com/DJESTRIN/BrainBeam) 🔦</b> - A cloud computing pipeline for analyzing whole-brain lightsheet datasets at petabyte scale. Contains a full pipeline for analyses. Currently developing associated GUI + API.
-
-- <b> 🔬 [Sweet2Plus](https://github.com/DJESTRIN/Sweet2Plus) 🔬</b> - A python API for analysis of suite2P outputs. In addition to analyzing suite2P outputs and performing statistics, this repo contains some C++ code for running behavioral experiments in the wet lab. 
-
-- <b> 🖥️ [infeR](https://github.com/DJESTRIN/LinReg) 🖥️ </b> - A unifying linear regression library. This repository contains R and SAS functions/scripts for generalized linear mixed models, linear mixed models, linear models. I am currently building this repository based on a variety of statistics scripts I have written over the years. In addition to regression analyses, there are some common functions for plotting and data cleaning. 
- 
-- <b> 🐭 [PostPose](https://github.com/DJESTRIN/PostPose) 🐭 </b> - A collection of scripts for analyzing outputs of DeepLabCut, a pose-estimation software.
-
-- <b> 📷 [CameraSync](https://github.com/DJESTRIN/CameraSync) 📸 </b> - A Tool kit for simultaneous recording of raspberry pi cameras. 
- 
-- <b> 🌊 [photometry](https://github.com/DJESTRIN/photometry) 🌊 </b> - (forked from [pMAT](https://github.com/djamesbarker/pMAT)) A Fiber Photometry Analysis Suite.
-
-<h2>👨‍💻 Miscellaneous Code Repositories: </h2>
-
-- <b> ☣️ [HistQuant](https://github.com/DJESTRIN/HistQuant) ☣️ </b> - A collection of code for analyzing histological tissue samples. 
-
-- <b> 🛞 [cuda_gpu_tools](https://github.com/DJESTRIN/cuda_gpu_tools) 🛞  </b> - Code for monitoring and visualizing gpu usage.
-
-- <b> ✏️ [ProjectManager](https://github.com/DJESTRIN/ProjectManager) ✏️  </b> - Code for monitoring steps in data intense projects. Intended use for scientific studies.
- 
-<h2>📰 Published Research Projects: </h2>
-My previous research studied reinforcement learning by eulcidating how natural neural networks guide deicion making in rodents. This entailed recording neuronal activity from real neuronal circuits and then interpreting them through often complex analyses. 
-
-<p float="center">
-  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="500"/>
+<p align="center">
+Ph.D. Computational Neuroscientist | Senior Machine Learning Engineer | AI for Drug Discovery
 </p>
 
-For a full bibliography of my research, please see my [Google Scholar](https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en).  
+<p align="center">
+Building machine learning systems for neuroscience and CNS drug discovery.
+</p>
 
-- <b> Signal Processing of Brainwave data (aka Calcium Fiber photometry) </b>
-  - pMAT
-  - VTA glutamatergic neurons mediate innate defensive behaviors
-  - Distinct Signaling by Ventral Tegmental Area Glutamate, GABA, and Combinatorial Glutamate-GABA Neurons in Motivated Behavior
-  - Regulation of social interaction in mice by a frontostriatal circuit modulated by established hierarchical relationships
-  - A stress-sensitive frontostriatal circuit supporting effortful reward-seeking behavior
-  - Lateral preoptic area glutamate neurons relay nociceptive information to the ventral tegmental area
+---
 
-- <b> Analysis of single-unit neuronal recording data (in vivo electrophysiology & in vivo two-photon imaging) </b>
-  - Aversion or salience signaling by ventral tegmental area glutamate neurons
-  - Acquired Alterations in Nucleus Accumbens Responsiveness to a Cocaine-Paired Discriminative Stimulus Preceding Rats’ Daily Cocaine Consumption
- 
-- <b> Analysis of behavior </b>
-  - Emergence of negative affect as motivation for drug taking in rats chronically self-administering cocaine  
+## 👋 About Me
 
-<h2> 🤳 Connect with me:</h2>
-If you're interested in discussing Neuroscience, AI, or RL, collaborating on projects, or if you're a hiring manager, please reach out to me via LinkedIn. I look forward to connecting with you!
+I am a **Senior Machine Learning Engineer** developing AI technologies for **CNS drug discovery**. My work combines modern machine learning, scientific computing, and computational neuroscience to accelerate biomedical research and therapeutic development.
 
+I received my **Ph.D. in (Computational) Neuroscience from Weill Cornell Medicine**, where I developed scalable computational pipelines for large-scale neuroscience datasets, statistical modeling frameworks, and machine learning methods for understanding neural circuits.
+
+My interests include:
+
+- 🧠 Machine Learning & Deep Learning
+- 🤖 Reinforcement Learning
+- 🧬 AI for Drug Discovery
+- 🧪 Computational Neuroscience
+- ☁️ Scientific Computing & HPC
+- 📊 Computer Vision
+- 🏗️ Machine Learning Infrastructure
+
+---
+
+## 🔬 Current Interests
+
+- Machine Learning for Drug Discovery
+- Reinforcement Learning
+- NeuroAI
+- Computer Vision for Biomedical Imaging
+- Scientific Software Engineering
+- Scalable Data Processing
+
+---
+
+# 🚀 Featured Open Source Projects
+
+## 🔦 BrainBeam
+
+A scalable framework for processing and analyzing whole-brain light-sheet microscopy datasets.
+
+**Highlights**
+
+- Whole-brain image registration
+- Atlas-based quantification
+- Distributed computing
+- High-performance computing workflows
+- Interactive visualization
+
+**Repository:** https://github.com/DJESTRIN/BrainBeam
+
+---
+
+## 🔬 Sweet2Plus
+
+A Python toolkit for behavioral neuroscience and calcium imaging analysis.
+
+Features include:
+
+- Suite2P utilities
+- Statistical analysis
+- Behavioral synchronization
+- Scientific visualization
+
+**Repository:** https://github.com/DJESTRIN/Sweet2Plus
+
+---
+
+## 📈 infeR
+
+A statistical modeling library for scientific data analysis.
+
+Includes tools for
+
+- Linear regression
+- Generalized linear models
+- Mixed-effects models
+- Data preprocessing
+- Publication-quality visualization
+
+**Repository:** https://github.com/DJESTRIN/LinReg
+
+---
+
+## 🐭 PostPose
+
+Utilities for analyzing DeepLabCut pose estimation outputs.
+
+**Repository:** https://github.com/DJESTRIN/PostPose
+
+---
+
+## 📷 CameraSync
+
+Toolkit for synchronized multi-camera acquisition using Raspberry Pi systems.
+
+**Repository:** https://github.com/DJESTRIN/CameraSync
+
+---
+
+## 🌊 photometry
+
+Fiber photometry analysis tools based on pMAT with additional utilities and workflow improvements.
+
+**Repository:** https://github.com/DJESTRIN/photometry
+
+---
+
+# 🛠 Additional Projects
+
+### ☣️ HistQuant
+
+Utilities for quantitative histology image analysis.
+
+### 🛞 cuda_gpu_tools
+
+GPU monitoring and visualization tools for CUDA workloads.
+
+### ✏️ ProjectManager
+
+Workflow management tools for large computational research projects.
+
+---
+
+# 📚 Research
+
+My doctoral research investigated how stress alters neural circuits underlying learning, motivation, and decision making. This work combined:
+
+- Whole-brain light-sheet microscopy
+- In vivo electrophysiology
+- Calcium imaging
+- Behavioral neuroscience
+- Machine learning
+- Statistical modeling
+
+I have contributed software and computational analyses to numerous neuroscience publications involving large-scale neural recording and imaging datasets.
+
+<p align="center">
+  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="550"/>
+</p>
+
+📖 **Google Scholar**
+
+https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en
+
+---
+
+# 🧰 Technologies
+
+### Languages
+
+- Python
+- R
+- MATLAB
+- C++
+- SQL
+
+### Machine Learning
+
+- PyTorch
+- scikit-learn
+- XGBoost
+- Optuna
+
+### Scientific Computing
+
+- NumPy
+- Pandas
+- SciPy
+- SimpleITK
+
+### Infrastructure
+
+- Linux
+- Git
+- Docker
+- CUDA
+- SLURM
+- High Performance Computing
+
+### Domains
+
+- Machine Learning
+- Computational Neuroscience
+- Drug Discovery
+- Computer Vision
+- Scientific Imaging
+- Reinforcement Learning
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing
+
+- Machine Learning
+- AI for Drug Discovery
+- Computational Neuroscience
+- Reinforcement Learning
+- Scientific Software Engineering
+
+Feel free to connect with me on LinkedIn or explore my repositories.
