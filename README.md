@@ -1,208 +1,58 @@
 <h1 align="center">Hi, I'm David Estrin 👋</h1>
 
 <p align="center">
-Ph.D. Computational Neuroscientist | Senior Machine Learning Engineer | AI for Drug Discovery
+<b>Senior Machine Learning Engineer</b> | Ph.D. Computational Neuroscientist
 </p>
 
 <p align="center">
-Building machine learning systems for neuroscience and CNS drug discovery.
+Building AI for CNS drug discovery • Machine Learning • Reinforcement Learning • Scientific Computing
 </p>
 
 ---
 
 ## 👋 About Me
 
-I am a **Senior Machine Learning Engineer** developing AI technologies for **CNS drug discovery**. My work combines modern machine learning, scientific computing, and computational neuroscience to accelerate biomedical research and therapeutic development.
+I'm a **Senior Machine Learning Engineer** developing machine learning methods for **CNS drug discovery**. I earned my **Ph.D. in Computational Neuroscience from Weill Cornell Medicine**, where I developed scalable software for analyzing large-scale neuroscience datasets and studied how neural circuits support learning and decision making.
 
-I received my **Ph.D. in (Computational) Neuroscience from Weill Cornell Medicine**, where I developed scalable computational pipelines for large-scale neuroscience datasets, statistical modeling frameworks, and machine learning methods for understanding neural circuits.
-
-My interests include:
-
-- 🧠 Machine Learning & Deep Learning
-- 🤖 Reinforcement Learning
-- 🧬 AI for Drug Discovery
-- 🧪 Computational Neuroscience
-- ☁️ Scientific Computing & HPC
-- 📊 Computer Vision
-- 🏗️ Machine Learning Infrastructure
+My interests include machine learning, reinforcement learning, NeuroAI, computer vision, and scientific software engineering.
 
 ---
 
-## 🔬 Current Interests
+## 🚀 Featured Projects
 
-- Machine Learning for Drug Discovery
-- Reinforcement Learning
-- NeuroAI
-- Computer Vision for Biomedical Imaging
-- Scientific Software Engineering
-- Scalable Data Processing
-
----
-
-# 🚀 Featured Open Source Projects
-
-## 🔦 BrainBeam
-
-A scalable framework for processing and analyzing whole-brain light-sheet microscopy datasets.
-
-**Highlights**
-
-- Whole-brain image registration
-- Atlas-based quantification
-- Distributed computing
-- High-performance computing workflows
-- Interactive visualization
-
-**Repository:** https://github.com/DJESTRIN/BrainBeam
+- 🔦 **BrainBeam** — Scalable pipeline for processing whole-brain light-sheet microscopy datasets.
+- 🔬 **Sweet2Plus** — Python toolkit for calcium imaging and behavioral neuroscience analysis.
+- 📈 **infeR** — Statistical modeling library for regression, mixed-effects models, and scientific data analysis.
+- 🐭 **PostPose** — DeepLabCut pose estimation analysis tools.
+- 📷 **CameraSync** — Multi-camera acquisition toolkit using Raspberry Pi.
+- 🌊 **photometry** — Fiber photometry analysis tools extending pMAT.
 
 ---
 
-## 🔬 Sweet2Plus
+## 🧰 Tech Stack
 
-A Python toolkit for behavioral neuroscience and calcium imaging analysis.
+**Languages:** Python • R • SQL • MATLAB
 
-Features include:
+**ML:** PyTorch • scikit-learn • XGBoost • Optuna
 
-- Suite2P utilities
-- Statistical analysis
-- Behavioral synchronization
-- Scientific visualization
+**Scientific Computing:** NumPy • Pandas • SciPy • SimpleITK
 
-**Repository:** https://github.com/DJESTRIN/Sweet2Plus
+**Infrastructure:** Linux • Docker • Git • CUDA • SLURM • HPC
 
 ---
 
-## 📈 infeR
+## 📚 Research
 
-A statistical modeling library for scientific data analysis.
+My research combines computational neuroscience and machine learning to understand how biological and artificial neural networks learn and make decisions.
 
-Includes tools for
-
-- Linear regression
-- Generalized linear models
-- Mixed-effects models
-- Data preprocessing
-- Publication-quality visualization
-
-**Repository:** https://github.com/DJESTRIN/LinReg
-
----
-
-## 🐭 PostPose
-
-Utilities for analyzing DeepLabCut pose estimation outputs.
-
-**Repository:** https://github.com/DJESTRIN/PostPose
-
----
-
-## 📷 CameraSync
-
-Toolkit for synchronized multi-camera acquisition using Raspberry Pi systems.
-
-**Repository:** https://github.com/DJESTRIN/CameraSync
-
----
-
-## 🌊 photometry
-
-Fiber photometry analysis tools based on pMAT with additional utilities and workflow improvements.
-
-**Repository:** https://github.com/DJESTRIN/photometry
-
----
-
-# 🛠 Additional Projects
-
-### ☣️ HistQuant
-
-Utilities for quantitative histology image analysis.
-
-### 🛞 cuda_gpu_tools
-
-GPU monitoring and visualization tools for CUDA workloads.
-
-### ✏️ ProjectManager
-
-Workflow management tools for large computational research projects.
-
----
-
-# 📚 Research
-
-My doctoral research investigated how stress alters neural circuits underlying learning, motivation, and decision making. This work combined:
-
-- Whole-brain light-sheet microscopy
-- In vivo electrophysiology
-- Calcium imaging
-- Behavioral neuroscience
-- Machine learning
-- Statistical modeling
-
-I have contributed software and computational analyses to numerous neuroscience publications involving large-scale neural recording and imaging datasets.
+📖 **Google Scholar:** https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en
 
 <p align="center">
-  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="550"/>
+  <img src="https://github.com/DJESTRIN/DJESTRIN/blob/main/brain_image.png" width="500"/>
 </p>
 
-📖 **Google Scholar**
-
-https://scholar.google.com/citations?user=VxAgC3wAAAAJ&hl=en
-
 ---
 
-# 🧰 Technologies
+## 🤝 Connect
 
-### Languages
-
-- Python
-- R
-- MATLAB
-- C++
-- SQL
-
-### Machine Learning
-
-- PyTorch
-- scikit-learn
-- XGBoost
-- Optuna
-
-### Scientific Computing
-
-- NumPy
-- Pandas
-- SciPy
-- SimpleITK
-
-### Infrastructure
-
-- Linux
-- Git
-- Docker
-- CUDA
-- SLURM
-- High Performance Computing
-
-### Domains
-
-- Machine Learning
-- Computational Neuroscience
-- Drug Discovery
-- Computer Vision
-- Scientific Imaging
-- Reinforcement Learning
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in discussing
-
-- Machine Learning
-- AI for Drug Discovery
-- Computational Neuroscience
-- Reinforcement Learning
-- Scientific Software Engineering
-
-Feel free to connect with me on LinkedIn or explore my repositories.
+If you're interested in AI, computational neuroscience, reinforcement learning, or scientific software engineering, feel free to connect on LinkedIn or explore my repositories.
