@@ -13,7 +13,7 @@ I am a Computational Neuroscientist :brain: seeking positions as a Machine Learn
 
 - <b> 🔬 [Sweet2Plus](https://github.com/DJESTRIN/Sweet2Plus) 🔬</b> - A python API for analysis of suite2P outputs. In addition to analyzing suite2P outputs and performing statistics, this repo contains some C++ code for running behavioral experiments in the wet lab. 
 
-- <b> 🖥️ [LinReg](https://github.com/DJESTRIN/LinReg) 🖥️ </b> - A unifying linear regression library. This repository contains R and SAS functions/scripts for generalized linear mixed models, linear mixed models, linear models. I am currently building this repository based on a variety of statistics scripts I have written over the years. In addition to regression analyses, there are some common functions for plotting and data cleaning. 
+- <b> 🖥️ [infeR](https://github.com/DJESTRIN/LinReg) 🖥️ </b> - A unifying linear regression library. This repository contains R and SAS functions/scripts for generalized linear mixed models, linear mixed models, linear models. I am currently building this repository based on a variety of statistics scripts I have written over the years. In addition to regression analyses, there are some common functions for plotting and data cleaning. 
  
 - <b> 🐭 [PostPose](https://github.com/DJESTRIN/PostPose) 🐭 </b> - A collection of scripts for analyzing outputs of DeepLabCut, a pose-estimation software.
 
